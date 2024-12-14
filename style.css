@@ -1,0 +1,40 @@
+        body {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif#42445A, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: dimgrey;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: white;
+            border: 1px solid #ddd;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+                .header {
+            background-color: skyblue;
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header2 {
+            background-color: lightgreen;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .header3 {
+          background-color: mediumpurple;
+          color: white;
+          padding: 20px;
+          text-align: center;
+        }
+       
+        th, td {
+            border: 1px solid white;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: white;
+        }
